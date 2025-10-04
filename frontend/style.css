@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+h1 { color: hotpink; text-shadow: 0 0 8px hotpink; }
+.tabs { margin-bottom: 20px; }
+.tab-button { padding: 10px; margin-right: 5px; cursor: pointer; }
+.tab-content { margin-top: 10px; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+table, th, td { border: 1px solid #ccc; }
+th, td { padding: 8px; text-align: left; }
+form input, form select { margin-right: 5px; margin-bottom: 5px; }
+form button { padding: 5px 10px; }
